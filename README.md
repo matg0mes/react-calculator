@@ -22,4 +22,3 @@ Com o nodejs e o npm instalado na máquina rode o comando abaixo para iniciar o 
 $ npm start
 ```
 
-Uma vez com o sistema iniciado, adicione o CEP e divirta-se :D
