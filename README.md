@@ -1,11 +1,4 @@
 
-<p align="center">
-  <a href="https://github.com/FoxGreedy">
-    <img src="https://i.imgur.com/RadC5Gt.png" width="160">
-  </a>
-</p>
-
-<hr />
 
 <h1 align="center">
    <img src="https://i.imgur.com/V1rZuwK.png" width="20%" /> 
@@ -31,3 +24,10 @@ Com o nodejs e o npm instalado na máquina rode o comando abaixo para iniciar o 
 $ npm start
 ```
 
+<hr />
+
+<p align="center">
+  <a href="https://github.com/FoxGreedy">
+    <img src="https://i.imgur.com/RadC5Gt.png" width="160">
+  </a>
+</p>
