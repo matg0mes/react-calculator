@@ -27,7 +27,7 @@ $ npm start
 <hr />
 
 <p align="center">
-  <a href="https://github.com/FoxGreedy">
+  <a href="https://github.com/matg0mes">
     <img src="https://i.imgur.com/RadC5Gt.png" width="160">
   </a>
 </p>
