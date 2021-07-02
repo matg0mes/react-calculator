@@ -26,8 +26,4 @@ $ npm start
 
 <hr />
 
-<p align="center">
-  <a href="https://github.com/matg0mes">
-    <img src="https://i.imgur.com/RadC5Gt.png" width="160">
-  </a>
-</p>
+<p  align="right">Made with ❤️ by <a href="https://github.com/matg0mes">matg0mes</a>.</p>
